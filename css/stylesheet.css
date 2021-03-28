@@ -25,11 +25,11 @@ a {
   padding: 180px 0 100px 0;
   color: white;
   text-align: center;
-  margin-top: 10em;
+  margin-top: 6em;
 }
 
 .bg-main {
-  background-image: url('../images/top-new.png');
+  background-image: url('../images/top-new.jpg');
   background-size: cover;
 }
 

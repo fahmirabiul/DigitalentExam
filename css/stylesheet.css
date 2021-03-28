@@ -23,12 +23,16 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url('../images/top-new.png');
-  background-size: cover;
   color: white;
   text-align: center;
   margin-top: 10em;
 }
+
+.bg-main {
+  background-image: url('../images/top-new.png');
+  background-size: cover;
+}
+
 
 .top-wrapper h1 {
   /* opacity: 0.7; */

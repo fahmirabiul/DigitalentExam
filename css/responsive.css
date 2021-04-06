@@ -1,5 +1,7 @@
 /* Untuk Tablet */
-@media all and (max-width: 1000px) {}
+@media all and (max-width: 1000px) {
+
+}
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
@@ -10,4 +12,5 @@
     .menu-icon {
         display: block;
     }
+
 }
